@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Scss, JavaScript, React, Chakra UI, Next JS.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lsminobagit](https://github.com/lsminobagit)
-
 - 📫 How to reach me **lsminoba91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
